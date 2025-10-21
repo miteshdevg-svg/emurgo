@@ -6,10 +6,10 @@ project:
     in new tabs. The project consists of a backend API and a React frontend.
 
 structure:
-  - news-api: "Backend API (Node.js/Express)"
-  - news-frontend: "Frontend React application"
-  - .gitignore: "Git ignore file"
-  - read.me: "Project documentation"
+  news-api: "Backend API (Node.js/Express)"
+  news-frontend: "Frontend React application"
+  .gitignore: "Git ignore file"
+  read.me: "Project documentation"
 
 technologies:
   frontend:
@@ -68,13 +68,13 @@ usage:
     - "Click Read Full Article to open the original source in a new tab"
 
 future_improvements:
-  - Dark/Light mode toggle
-  - Pagination or infinite scroll
-  - Integration with multiple news APIs
-  - Smooth animations using Framer Motion
-  - Unit and integration tests
+  - "Dark/Light mode toggle"
+  - "Pagination or infinite scroll"
+  - "Integration with multiple news APIs"
+  - "Smooth animations using Framer Motion"
+  - "Unit and integration tests"
 
 author:
   name: Mitesh Devganiya
   email: miteshdevganiya177@gmail.com
-  github: https://github.com/miteshdevg-svg/
+  github: https://github.com/miteshdevg-svg
