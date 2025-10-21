@@ -44,7 +44,7 @@ Setup and run the backend API:
 ```bash
 cd news-api       # Navigate to backend folder
 npm install       # Install dependencies
-npm start         # Start backend server
+node index.js         # Start backend server
 ```
 
 * Default port: 5000
