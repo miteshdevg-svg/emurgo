@@ -1,4 +1,4 @@
-project:                       # Level 0
+<!-- project:                       # Level 0
   name: News Explorer           # Level 1
   description: >                # Level 1
     News Explorer is a modern web application to browse and search news articles.
@@ -77,4 +77,28 @@ future_improvements:         # Level 0
 author:                      # Level 0
   name: Mitesh Devganiya     # Level 1
   email: miteshdevganiya177@gmail.com # Level 1
-  github: https://github.com/miteshdevg-svg # Level 1
+  github: https://github.com/miteshdevg-svg # Level 1 -->
+
+project:
+  name: News Explorer
+  description: >
+    News Explorer is a modern web application to browse and search news articles.
+    Users can search by keyword or title, view article details, and open full articles
+    in new tabs. The project consists of a backend API and a React frontend.
+
+structure:
+  news-api: "Backend API (Node.js/Express)"
+  news-frontend: "Frontend React application"
+  .gitignore: "Git ignore file"
+  read.me: "Project documentation"
+
+technologies:
+  frontend:
+    - React.js
+    - Plain CSS
+    - Flexbox & CSS Grid
+  backend:
+    - Node.js
+    - Express
+  other:
+    - Fetch API for HTTP requests
